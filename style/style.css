@@ -83,6 +83,9 @@ top: -5px;
     text-decoration: underline;
 }
 
+#check {
+    accent-color: black;
+}
 
 button {
     width: 100%;
@@ -120,3 +123,4 @@ button:hover {
 .register a:hover {
     text-decoration: underline;
 }
+
